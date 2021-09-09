@@ -190,7 +190,7 @@ account as a contributor to give them access for grading.
 
 For this section, your instructor is: Kevin Gallagher, GitHub ID `kcg295`.
 
-For this section, your TA is Evan Richter, GitHub ID `evanrichter`.
+For this section, your TA is TBD, GitHub ID `TBD`.
 
 The repository should contain:
 
